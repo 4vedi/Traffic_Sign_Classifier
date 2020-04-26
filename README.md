@@ -6,7 +6,8 @@
         link: <a href = "http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset">GTSRB</a>
   
   <H3> Result: </H>
-  The Model accuracy is 97%. It can be further increased by adding convolution layers and increasing the number of epochs</br></br>
-  ![RESULT](https://github.com/4vedi/Traffic_Sign_Classifier/Result.png)
+  The Model accuracy is 97%.</br> It can be further increased by adding convolution layers and increasing the number of epochs</br></br>
+  
+  ![RESULT](https://github.com/4vedi/Traffic_Sign_Classifier/blob/master/Result.png)
   
   
